@@ -89,6 +89,18 @@ a:hover{
     float: left;
     margin-right: 30px;
 }
+.code-img:hover{
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+.chilly-img:hover{
+    width: 20%;
+    float: left;
+    border-radius: 30%;
+    margin-right: 30px;
+}
 .chilly-img{
     width: 20%;
     float: right;
